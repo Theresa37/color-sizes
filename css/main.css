@@ -107,7 +107,7 @@ footer {
 
   #column-3 {
     background-color: tan;
-    *width: 33.3%*
+    width: 33.3%;
   }
 
   footer {
